@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UniveristyQR</string>
+    <string name="tab_text_1">SCANNER</string>
+    <string name="tab_text_2">ATTENDANCE</string>
+    <string name="tab_text_3">SETTINGS</string>
+    <string name="action_settings">Settings</string>
+    <string name="resultDefault">Tap to scan your QR Code</string>
+
+    <string name="title_login">Login</string>
+    <string name="title_reg">Register</string>
+    <string name="email_hint">Email</string>
+    <string name="pass_hint">Password</string>
+
+</resources>
